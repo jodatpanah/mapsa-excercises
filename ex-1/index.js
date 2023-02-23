@@ -1,3 +1,4 @@
+// https://codeforces.com/problemset/problem/1792/B
 let person1 = 0
 let person2 = 0
 let total = 0
